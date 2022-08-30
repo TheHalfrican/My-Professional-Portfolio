@@ -1,5 +1,6 @@
 # My-Professional-Portfolio
-This is a React App version of my professional Portfolio. 
+This is a React App Version of my professional Portfolio. 
+
 
 ## Table of Contents
 1. [Description](#Description)
