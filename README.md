@@ -1,2 +1,2 @@
 # My-Professional-Portfolio
-This is my professional Portfolio. 
+This is a React App Version of my professional Portfolio. 
