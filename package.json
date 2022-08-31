@@ -1,0 +1,19 @@
+{
+  "name": "my-professional-portfolio",
+  "version": "1.0.0",
+  "description": "This is a React App Version of my professional Portfolio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheHalfrican/My-Professional-Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheHalfrican/My-Professional-Portfolio/issues"
+  },
+  "homepage": "https://github.com/TheHalfrican/My-Professional-Portfolio#readme"
+}
